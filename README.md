@@ -1,6 +1,8 @@
 # HR-Analytics
-The HR Analytics Dashboard is designed to analyze employee attrition trends across various demographic and job-related categories. It offers a detailed breakdown of attrition rates by education, age, salary, job role, and years of service, helping HR professionals and leadership teams make informed decisions to improve employee retention.
-2. Project Objectives
+1. Project Overview
+   The HR Analytics Dashboard is designed to analyze employee attrition trends across various demographic and job-related categories. It offers a detailed breakdown of attrition rates by education, age, salary, job role, and years of service, helping HR professionals and leadership teams make informed decisions to improve employee retention.
+   
+3. Project Objectives
 •	To track and evaluate employee attrition and its impact on the organization.
 •	To identify key factors contributing to attrition such as salary, age, and job role.
 •	To support HR in developing targeted retention strategies.
@@ -67,4 +69,9 @@ ________________________________________
 •	Department Heads
 •	Executive Leadership
 
-Data: 
+
+Data: https://github.com/yogesh8536/HR-Analytics/blob/main/HR_Analytics.csv
+
+Dashboard: https://github.com/yogesh8536/HR-Analytics/blob/main/HR%20Analytics.pbix
+
+Image: https://github.com/yogesh8536/HR-Analytics/blob/main/HR%20Analytics.JPG
